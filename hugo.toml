@@ -1,0 +1,52 @@
+baseURL = 'https://www.trijssenaar.net/'
+languageCode = 'en-us'
+title = 'Trijssenaar.NET'
+theme = 'm10c'
+
+paginate = 8
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "Sander Trijssenaar"
+  description = "Getting shit done | Passion for technology | Quality focused | Hands-on mentality"
+  menu_item_separator = " - "
+
+  image = "picture.png"
+
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/ALTrijssenaar"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/ALTrijssenaar"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/altrijssenaar/"
+
+
+  # Default theme
+  [params.style]
+    darkestColor = "#1A2530"
+    darkColor = "#2C3D4F"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#FF8522"
