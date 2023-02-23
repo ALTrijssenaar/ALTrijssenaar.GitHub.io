@@ -1,7 +1,7 @@
 ---
 title: "Why I'm starting a blog..."
 date: 2023-02-15T14:01:21+01:00
-draft: false
+draft: true
 tags: ["blog"]
 ---
 
