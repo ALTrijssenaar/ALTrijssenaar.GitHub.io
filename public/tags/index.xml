@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Trijssenaar.NET</title>
+    <link>https://www.trijssenaar.net/tags/</link>
+    <description>Recent content in Tags on Trijssenaar.NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 14:01:21 +0100</lastBuildDate><atom:link href="https://www.trijssenaar.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://www.trijssenaar.net/tags/blog/</link>
+      <pubDate>Wed, 15 Feb 2023 14:01:21 +0100</pubDate>
+      
+      <guid>https://www.trijssenaar.net/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.trijssenaar.net/about/</loc>
+    <lastmod>2023-02-15T14:22:36+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/tags/blog/</loc>
+    <lastmod>2023-02-15T14:01:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/blog/</loc>
+    <lastmod>2023-02-15T14:01:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/blog/2023-02-15-creating-a-freely-hosted-hugo-for-dummies/</loc>
+    <lastmod>2023-02-15T14:01:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/tags/</loc>
+    <lastmod>2023-02-15T14:01:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/</loc>
+    <lastmod>2023-02-15T14:01:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/blog/2023-02-15-why-im-starting-a-blog/</loc>
+    <lastmod>2023-02-15T14:01:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.trijssenaar.net/categories/</loc>
+  </url>
+</urlset>
